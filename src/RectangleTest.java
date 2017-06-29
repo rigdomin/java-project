@@ -10,7 +10,7 @@ public class RectangleTest {
 	}
 
 	@Test
-	publiv void testgetPerimeter() {
+	public void testGetPerimeter() {
 		assertEquals(myRectangle.getPerimeter(), 22);
 	}
 
