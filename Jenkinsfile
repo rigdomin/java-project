@@ -89,6 +89,7 @@ pipeline{
 
 				echo "Pushing to Origin Master"
 				sh "git push origin master"
+				
 			}
 		}
 	}
